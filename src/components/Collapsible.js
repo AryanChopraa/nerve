@@ -1,4 +1,4 @@
 
 import { writable } from 'svelte/store';
 
-export const Collapsible = writable(true);
+export const Collapsible = writable(false);
